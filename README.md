@@ -1,4 +1,4 @@
-# Hi there, my name is Faruk 👋
+# Hi there, my name is Faruk. 👋
 ## Someone who wants to be a front-end developer
 
 <div>
