@@ -36,3 +36,7 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=frkylmz&show_icons=true&theme=dark&locale=en" alt="frkylmz" width="45%" /></p>
 
 </div>
+
+<h3>Profile Visits</h3>
+  
+![visitors](https://komarev.com/ghpvc/?username=frkylmz&color=blue)
