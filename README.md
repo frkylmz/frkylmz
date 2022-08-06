@@ -6,7 +6,7 @@
 <p align="left">
 <a href="https://www.linkedin.com/in/frkylmz/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="frkylmz" height="30" width="40" /></a>
 <a href="https://instagram.com/frkylmz420" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="frkylmz420" height="30" width="40" /></a>
-<a href="https://linktr.ee/farukyilmaz" target="blank"><img align="center" src="https://linktr.ee/" alt="frkylmz420" height="30" width="40" /></a>
+<a href="https://linktr.ee/farukyilmaz" target="blank"><img align="center" src="https://api.blog.production.linktr.ee/wp-content/uploads/2022/06/Avatar-Symbol-Canopy.png" alt="frkylmz420" height="30" width="40" /></a>
 </p>  
 
   
