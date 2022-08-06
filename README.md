@@ -5,6 +5,7 @@
 <h3 align="left">Contact me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/frkylmz/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="frkylmz" height="30" width="40" /></a>
+<a href="https://instagram.com/frkylmz420" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="frkylmz420" height="30" width="40" /></a>
 <a href="https://linktr.ee/farukyilmaz" target="blank"><img align="center" src="https://www.pentoolart.com/assets/images/linktree.svg" alt="frkylmz420" height="30" width="40" /></a>
 </p>  
 
