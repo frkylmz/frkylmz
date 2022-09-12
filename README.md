@@ -1,5 +1,5 @@
 # Hi there, my name is Faruk👋😊
-## Someone who wants to be a front-end developer
+## Someone who wants to be a Front-End Developer
 
 <div>
 <h3 align="left">Contact me:</h3>
