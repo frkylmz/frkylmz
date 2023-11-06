@@ -44,6 +44,8 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=frkylmz&show_icons=true&theme=dark&locale=en" alt="frkylmz" width="45%" /></p>
 </div>
 
+---
+
 <div>
   <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=frkylmz" alt="frkylmz" /></a> </p>
 </div>
