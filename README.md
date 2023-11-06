@@ -46,9 +46,3 @@
 </div>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=frkylmz" alt="frkylmz" /></a> </p>
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=frkylmz&show_icons=true&locale=en&layout=compact" alt="frkylmz" /></p>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=frkylmz&show_icons=true&locale=en" alt="frkylmz" /></p>
-
-<h3>Profile Visits</h3>  
-![visitors]([https://komarev.com/ghpvc/?username=frkylmz&color=blue](https://komarev.com/ghpvc/?username=frkylmz&label=Profile%20views&color=0e75b6&style=flat)https://komarev.com/ghpvc/?username=frkylmz&label=Profile%20views&color=0e75b6&style=flat)
