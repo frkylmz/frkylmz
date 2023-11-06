@@ -46,5 +46,7 @@
 </div>
 
 <h3>Profile Visits</h3>
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=frkylmz&label=Profile%20views&color=0e75b6&style=flat" alt="frkylmz" /> </p>
   
 ![visitors](https://komarev.com/ghpvc/?username=frkylmz&color=blue)
