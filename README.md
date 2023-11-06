@@ -41,10 +41,9 @@
 <h3>My GitHub Stats :chart_with_upwards_trend:</h3>
 <div class="row">
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=frkylmz&show_icons=true&theme=radical&locale=en&layout=compact" alt="frkylmz" width="45%" /></p>
----
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=frkylmz&show_icons=true&theme=dark&locale=en" alt="frkylmz" width="45%" /></p>
 </div>
 
-<div>
+<div class ="row">
   <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=frkylmz" alt="frkylmz" /></a> </p>
 </div>
