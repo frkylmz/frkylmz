@@ -1,7 +1,5 @@
-<div>
-  # Hi there, my name is Faruk👋😊
-  ## Someone who wants to be a Front-End Developer
-</div>
+# Hi there, my name is Faruk👋😊
+## Someone who wants to be a Front-End Developer
 
 <div>
 <h3 align="left">Contact Me</h3>
