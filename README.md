@@ -1,8 +1,8 @@
-<h3 align="center">Hey there 👋 I am Faruk YILMAZ 😊</h3>
+<h1 align="center">Hey there 👋 I am Faruk YILMAZ 😊</h1>
 
 ###
 
-<h3 align="center">Someone who wants to be a Front-End Developer</h3>
+<h2 align="center">Someone who wants to be a Front-End Developer</h2>
 
 ###
 
@@ -73,11 +73,5 @@
 ###
 
 <img src="https://raw.githubusercontent.com/frkylmz/frkylmz/output/snake.svg" alt="Snake animation" />
-
-###
-
-<div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=frkylmz.frkylmz&"  />
-</div>
 
 ###
