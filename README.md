@@ -1,16 +1,16 @@
-<h1 align="center">Hi there👋 I am Faruk YILMAZ 😊</h1>
+<h1 align="left">Hi there👋 I am Faruk YILMAZ 😊</h1>
 
 ###
 
-<h2 align="center">Someone who wants to be a Front-End Developer</h2>
+<h2 align="left">Someone who wants to be a Front-End Developer</h2>
 
 ###
 
-<h1 align="center">Contact Me</h1>
+<h1 align="left">Contact Me</h1>
 
 ###
 
-<div align="center">
+<div align="left">
   <a href="https://linktr.ee/farukyilmaz" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Linktree&logo=linktree&label=&color=1de9b6&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linktree logo"  />
   </a>
@@ -27,11 +27,11 @@
 
 ###
 
-<h1 align="center">Tech I Use</h1>
+<h1 align="left">Tech I Use</h1>
 
 ###
 
-<div align="center">
+<div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
