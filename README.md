@@ -2,7 +2,7 @@
 
 ###
 
-<h2 align="center">Someone who wants to be a Front-End Developer</h2>
+<h2 align="center">Front-End Developer</h2>
 
 ###
 
@@ -27,7 +27,7 @@
 
 ###
 
-<p align="left">- 🔭 I'm looking for a job right now.<br>- 📚 I'm currently learning React. <br>- ⚡ In my free time I learn new technologies and draw pictures.</p>
+<p align="left">- 🔭 I'm looking for a job right now <br>- 📚 I'm currently learning React, TypeScript and Next.js <br>- ⚡ In my free time I learn new technologies and draw pictures </p>
 
 ###
 
@@ -59,7 +59,7 @@
 
 ###
 
-<h3 align="left">🔥   My Stats :</h3>
+<h3 align="left">🔥   My Stats:</h3>
 
 ###
 
