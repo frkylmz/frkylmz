@@ -27,7 +27,7 @@
 
 ###
 
-<p align="left">- 🔭 I'm looking for a job right now <br>- 📚 I'm currently learning React, TypeScript and Next.js <br>- ⚡ In my free time I learn new technologies and draw pictures </p>
+<p align="left">- 🔭 I'm looking for a job right now <br>- 📚 I'm currently learning React, TypeScript, Next.js and ASP.NET Core MVC <br>- ⚡ In my free time I learn new technologies and draw pictures </p>
 
 ###
 
